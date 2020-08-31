@@ -1,6 +1,13 @@
 # Bot do Severino
 Bot do Discord que embaralha a ordem das palavras de todas as mensagens!
-
+***
+## Funcionalidades
+- **Embaralhar mensagens**
+O severino lê suas mensagens e responde com as palavras fora de ordem:
+![Severino embaralhando mensagens](https://i.imgur.com/OUbMSfy.png)
+- **Textão de parabéns**
+Escreva "parabens" e tenha uma surpresa!
+***
 ## Como configurar e usar
 1. Crie um bot no [Painel de Desenvolvedores do Discord](https://discord.com/developers/applications) e gere um token de aplicação;
 2. Copie o token, cole no campo "discord-bot-key" (dentro das aspas) no arquivo "appsettings.json" e salve;
